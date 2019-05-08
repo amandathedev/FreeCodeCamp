@@ -1,11 +1,12 @@
 function wordBlanks(myNoun, myAdjective, myVerb, myAdverb) {
     var result = "";
     // Your code below this line
-    result+= "My "+myAdjective+" "+myNoun+" "+myVerb+" very "+myAdverb+".";
+    result += "My " +myAdjective+ " "+myNoun+" "+myVerb+" very "+myAdverb+".";
 
     // Your code above this line
   return result;
 }
 
 // Change the words here to test your function
-wordBlanks("dog", "big", "ran", "quickly");
+// wordBlanks("dog", "big", "ran", "quickly");
+wordBlanks("cat", "small", "jumped", "high");
