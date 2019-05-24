@@ -1,0 +1,1 @@
+myArray[1] = "anything we want";
