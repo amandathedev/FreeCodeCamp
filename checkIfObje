@@ -1,0 +1,3 @@
+function isEveryoneHere(obj) {
+  return (users.hasOwnProperty('Alan','Jeff','Sarah','Ryan')) ? true : false;
+}
